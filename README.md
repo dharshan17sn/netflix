@@ -17,3 +17,13 @@ WordCloud (Text Visualization)
 📂 Files
 Netflix_IMDB_Analysis.ipynb → Jupyter Notebook with all analysis & visualizations
 Netflix_IMDB_Ratings.csv → Dataset used for analysis
+
+💡 How to Use
+Clone this repository:
+git clone https://github.com/dharshan11sn/netflix.git
+Install dependencies:
+pip install -r requirements.txt
+
+Run the Analysis
+Open netflix.ipynb
+Execute each cell to see the visualizations & insights
