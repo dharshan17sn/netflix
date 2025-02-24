@@ -20,7 +20,7 @@ Netflix_IMDB_Ratings.csv → Dataset used for analysis
 
 💡 How to Use
 Clone this repository:
-git clone https://github.com/dharshan11sn/netflix.git
+git clone https://github.com/dharshan17sn/netflix.git
 Install dependencies:
 pip install -r requirements.txt
 
